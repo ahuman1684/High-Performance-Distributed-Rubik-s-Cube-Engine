@@ -48,15 +48,18 @@ Run the entire stack without installing C++ compilers manually.
 This compiles the C++ engine and generates the 88MB Pattern Database inside the container.
 ```bash
 docker build -t rubiks-backend .
+```
 2. Run the Container
-
+```bash
 Starts the API on port 5000.
 docker run -p 5000:5000 rubiks-backend
+```
 3. Start Frontend
-
+```
 Open a new terminal.
 cd frontend
 npm install
 npm run dev
 
 Visit http://localhost:5173 to use the solver.
+```
