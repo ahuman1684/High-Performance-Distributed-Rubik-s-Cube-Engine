@@ -1,0 +1,4 @@
+flask==3.0.0
+flask-cors==4.0.0
+gunicorn          # Production-grade WSGI server (standard in industry)
+black             # Code formatter (shows you care about code style)
