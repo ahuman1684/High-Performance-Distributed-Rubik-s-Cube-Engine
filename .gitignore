@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+
+# Build Artifacts
+build/
+dist/
+*.o
+*.so
+*.dylib
+rubiks_solver
+corner.db
+
+# System Files
+.DS_Store
+.vscode/
