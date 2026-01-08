@@ -6,6 +6,8 @@ The system features a **C++17 Compute Engine** optimized for L1 cache locality, 
 
 ---
 
+![Demo Image](images/Screenshot 2026-01-08 at 17.50.15.png)
+
 ## 🚀 Key Features
 
 * **Optimal Solver (IDA*):** Finds solutions close to "God's Number" (≤ 20 moves) using Iterative Deepening A*.
