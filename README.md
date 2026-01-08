@@ -6,7 +6,7 @@ The system features a **C++17 Compute Engine** optimized for L1 cache locality, 
 
 ---
 
-![Demo Image](images/Screenshot 2026-01-08 at 17.50.15.png)
+![Demo Image](images/demo.png)
 
 ## 🚀 Key Features
 
